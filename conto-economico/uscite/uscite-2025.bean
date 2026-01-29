@@ -1,0 +1,144 @@
+option "title" "Spese 2025"
+option "operating_currency" "EUR"
+option "booking_method" "FIFO"
+* Buddy
+** Gennaio
+2025-01-04 * "Iliad"
+    Assets:CC:Buddy                            -9.99 EUR
+    Expenses:Necessità:Abbonamenti:Telefono
+2025-01-18 * "Autostrada"
+    Assets:CC:Buddy                            -2.70 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2025-01-19 * "Bowling"
+    Assets:CC:Buddy                           -14.00 EUR
+    Expenses:Desideri:Intrattenimento:Bowling
+2025-01-19 * "Autostrada"
+    Assets:CC:Buddy                            -2.70 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2025-01-23 * "Spotify"
+    Assets:CC:Buddy                            -14.99 EUR
+    Expenses:Desideri:Intrattenimento:Abbonamenti:Spotify
+2025-01-25 * "KFC Reggio Emilia"
+    Assets:CC:Buddy                           -12.90 EUR
+    Expenses:Desideri:Ristoranti-Bar
+2025-01-31 * "Biglietti Nerd Show Bologna"
+    Assets:CC:Buddy                           -63.60 EUR
+    Expenses:Desideri:Intrattenimento:Eventi
+2025-01-30 * "Treno per Forlì per documenti Colomibini"
+    Assets:CC:Buddy                            -5.20 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2025-01-30 * "Spesa in tabaccheria per coumenti Colombini"
+    Assets:CC:Buddy                           -48.68 EUR
+    Expenses:Necessità:Personale:Documenti
+
+** Febbraio
+2025-02-01 * "Spesa non identificata"
+    Assets:CC:Buddy                           -38.90 EUR
+    Expenses:Non-Identificate
+2025-02-01 * "Spesa Conad"
+    Assets:CC:Buddy                            -7.44 EUR
+    Expenses:Necessità:Spesa:Conad
+2025-02-02 * "Assicurazione Fiesta"
+    Assets:CC:Buddy                          -246.22 EUR
+    Expenses:Necessità:Auto:Fiesta:Assicurazione
+2025-02-01 * "Tasse P.Iva"
+    Assets:CC:Buddy                          -5 EUR
+    Expenses:P-Iva:Tasse
+2025-02-04 * "Iliad"
+    Assets:CC:Buddy                            -9.99 EUR
+    Expenses:Necessità:Abbonamenti:Telefono
+2025-02-08 * "Prelievo contanti per pagamento punto"
+    Assets:CC:Buddy                         -1500.00 EUR                   
+    Assets:Portafoglio:Contanti              1000.00 EUR
+    Assets:Portafoglio:Contanti               500.00 EUR
+2025-02-09 * "Prelievo contanti per pagamento punto"
+    Assets:CC:Buddy                          -500.00 EUR                   
+    Assets:Portafoglio:Contanti               500.00 EUR
+2025-02-07 * "Assicurazione Punto"
+    Assets:CC:Buddy                          -439.63 EUR
+    Expenses:Necessità:Auto:Punto:Assicurazione
+2025-02-09 * "Autostrada"
+    Assets:CC:Buddy                            -2.70 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2025-02-11 * "Pagamento utenze ?"
+    Assets:CC:Buddy                          -134.62 EUR
+    !Expenses:Necessità:Casa:Bollette
+2025-02-17 * "Inail"
+    Assets:CC:Buddy                            -2.51 EUR
+    Expenses:P-Iva:Inail
+2025-02-15 * "Autostrada"
+    Assets:CC:Buddy                            -2.70 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2025-02-21 * "Autostrada"
+    Assets:CC:Buddy                            -2.70 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2025-02-24 * "Autostrada"
+    Assets:CC:Buddy                            -2.70 EUR
+    Expenses:Necessità:Personale:Spostamenti
+
+** Marzo
+2025-03-06 * "Primo bonifico assicurazione personale"
+    Assets:CC:Buddy                          -120.00 EUR
+    Expenses:Necessità:Personale:Assicurazione
+2025-03-06 * "Bonifico errato assicurazione personale"
+    Assets:CC:Buddy                          -120.00 EUR
+    Expenses:Necessità:Personale:Assicurazione
+2025-03-06 * "Primo bonifico fondo pensione"
+    Assets:CC:Buddy                          -160.00 EUR
+    Assets:Ivenstimenti:Fondo-Pensione
+2025-03-06 * "Spotify"
+    Assets:CC:Buddy                          -14.99 EUR
+    Expenses:Desideri:Intrattenimento:Abbonamenti:Spotify
+2025-03-12 * "Spesa Conad"
+    Assets:CC:Buddy                          -42.44 EUR
+    Expenses:Necessità:Spesa:Conad
+2025-03-12 * "Acquisto su amazon"
+    Assets:CC:Buddy                          -148.33 EUR
+    Expenses:Desideri:Shopping:Acquisti-Online
+2025-03-12 * "Farmacia"
+    Assets:CC:Buddy                          -26.58 EUR
+    Expenses:Necessità:Personale:Sanità
+2025-03-14 * "Spesa MD"
+    Assets:CC:Buddy                           -22.84 EUR
+    Expenses:Necessità:Spesa:MD
+2025-03-15 * "Acquisto non identificato"
+    Assets:CC:Buddy                           -25.00 EUR
+    Expenses:Non-Identificate
+2025-03-12 * "Acquisto su ebay"
+    Assets:CC:Buddy                            -6.85 EUR
+    Expenses:Desideri:Shopping:Acquisti-Online
+2025-03-13 * "Cartuccie stampante"
+    Assets:CC:Buddy                           -50.00 EUR
+    Expenses:Necessità:Casa
+2025-03-13 * "Pizza da pizza e passioni"
+    Assets:CC:Buddy                           -17.50 EUR
+    Expenses:Desideri:Ristoranti-Bar
+2025-03-22 * "Spesa MD"
+    Assets:CC:Buddy                           -24.70 EUR
+    Expenses:Necessità:Spesa:MD
+2025-03-21 * "MC Donald's"
+    Assets:CC:Buddy                            -8.50 EUR
+    Expenses:Desideri:Ristoranti-Bar:MC-Donalds
+2025-03-22 * "Biglietto non identificato"
+    Assets:CC:Buddy                           -59.06 EUR
+    Expenses:Desideri:Intrattenimento:Eventi
+2025-03-23 * "Spotify"
+    Assets:CC:Buddy                           -14.99 EUR
+    Expenses:Desideri:Intrattenimento:Abbonamenti:Spotify
+2025-03-23 * "Benzina"
+    Assets:CC:Buddy                           -45.78 EUR
+    Expenses:Necessità:Auto:Fiesta:Benzina
+2025-03-22 * "Sushi"
+    Assets:CC:Buddy                           -21.00 EUR
+    Expenses:Desideri:Ristoranti-Bar
+2025-03-23 * "Soldi inviati su paypal ad Ale"
+    Assets:CC:Buddy                            -4.40 EUR
+    Expenses:Desideri:Ristoranti-Bar
+2025-03-24 * "Spesa MD"
+    Assets:CC:Buddy                           -52.52 EUR
+    Expenses:Necessità:Spesa:MD
+2025-03-29 * "Pizza pes e galet"
+    Assets:CC:Buddy                           -12.00 EUR
+    Expenses:Desideri:Ristoranti-Bar
+
+** Aprile

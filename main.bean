@@ -1,0 +1,81 @@
+* "Finanza Personale"
+option "title" "Finanza Personale"
+option "operating_currency" "EUR"
+option "booking_method" "FIFO"
+
+* Imports
+include "./conto-economico/conto-economico.bean"
+
+* Conti Bancari (Conti corrente)
+* Buddy
+2024-12-31 open Assets:CC:Buddy EUR
+2024-12-31 * "Saldo iniziale"
+    Assets:CC:Buddy                            74.83 EUR
+    Equity:Opening-Balances                   -74.83 EUR
+
+2024-12-31 open Assets:CC:Revolut EUR
+2024-12-31 open Assets:CC:TradeRepublic EUR
+2024-12-31 open Assets:CC:Hype EUR
+
+2024-12-31 open Assets:Portafoglio:Contanti EUR
+2024-12-31 pad Assets:Portafoglio:Contanti Equity:Opening-Balances
+2026-01-29 balance Assets:Portafoglio:Contanti 46.57 EUR
+* Investimenti
+2024-12-31 open Assets:Ivenstimenti:Fondo-Pensione EUR
+2024-12-31 open Assets:Ivenstimenti:Azionario:ETF:SP500 EUR
+2024-12-31 open Assets:Ivenstimenti:Crypto:Bitcoin EUR
+2024-12-31 open Assets:Ivenstimenti:Crypto:Ethereum EUR
+
+* Passività (Liability)
+2024-12-31 open Liabilities:Agenzia-Entrate EUR
+2024-12-31 * "Soldi dovuti inizialmente"
+    Liabilities:Agenzia-Entrate                  -2400 EUR
+    Equity:Opening-Balances                       2400 EUR
+* Riconciliazione (Equity)
+2024-12-31 open Equity:Opening-Balances EUR
+
+* Entrate
+2024-12-31 open Income:Stipendio:Colombini EUR
+2024-12-31 open Income:Extra EUR
+2024-12-31 open Income:Regali EUR
+
+2024-12-31 open Income:Interessi:Azionario EUR
+2024-12-31 open Income:Interessi:CC:TradeRepublic EUR
+
+* Uscite
+2024-12-31 open Expenses:Non-Identificate EUR
+
+2024-12-31 open Expenses:P-Iva:Tasse EUR
+2024-12-31 open Expenses:P-Iva:Inps EUR
+2024-12-31 open Expenses:P-Iva:Inail EUR
+
+2024-12-31 open Expenses:Necessità:Casa EUR
+2024-12-31 open Expenses:Necessità:Casa:Affitto EUR
+2024-12-31 open Expenses:Necessità:Casa:Bollette EUR
+2024-12-31 open Expenses:Necessità:Spesa:MD EUR
+2024-12-31 open Expenses:Necessità:Spesa:Conad EUR
+2024-12-31 open Expenses:Necessità:Auto:Fiesta:Manutenzione EUR
+2024-12-31 open Expenses:Necessità:Auto:Fiesta:Assicurazione EUR
+2024-12-31 open Expenses:Necessità:Auto:Fiesta:Benzina EUR
+2024-12-31 open Expenses:Necessità:Auto:Punto:Manutezione EUR
+2024-12-31 open Expenses:Necessità:Auto:Punto:Assicurazione EUR
+2024-12-31 open Expenses:Necessità:Auto:Punto:Benzina EUR
+2024-12-31 open Expenses:Necessità:Personale:Sanità EUR
+2024-12-31 open Expenses:Necessità:Personale:Assicurazione EUR
+2024-12-31 open Expenses:Necessità:Personale:Spostamenti EUR
+2024-12-31 open Expenses:Necessità:Personale:Documenti EUR
+2024-12-31 open Expenses:Necessità:Abbonamenti:Telefono EUR
+2024-12-31 open Expenses:Necessità:Abbonamenti:Fibra EUR
+
+2024-12-31 open Expenses:Desideri:Ristoranti-Bar EUR
+2024-12-31 open Expenses:Desideri:Ristoranti-Bar:MC-Donalds EUR
+2024-12-31 open Expenses:Desideri:Hobby:Attrezzature EUR
+2024-12-31 open Expenses:Desideri:Viaggi EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Concerti EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Eventi EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Cinema EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Bowling EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Videogiochi EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Abbonamenti:Spotify EUR
+2024-12-31 open Expenses:Desideri:Shopping:Vestiti EUR
+2024-12-31 open Expenses:Desideri:Shopping:Acquisti-Online EUR

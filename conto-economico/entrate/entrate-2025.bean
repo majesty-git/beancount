@@ -1,0 +1,51 @@
+2025-01-29 * "Soldi del babbo per comprare punto"
+  Income:Regali                             -3000 EUR
+  Assets:CC:Buddy                            
+
+2025-03-06 * "Primo stipendio Colombini"
+  Income:Stipendio:Colombini                -1218.98 EUR
+  Assets:CC:Buddy                            1218.98 EUR
+
+2025-03-06 * "Bonus amico Buddy"
+  Income:Extra                                -50.00 EUR
+  Assets:CC:Buddy                            
+
+2025-04-07 * "Stipendio marzo"
+  Income:Stipendio:Colombini                -1698.47 EUR
+  Assets:CC:Buddy                            1698.47 EUR
+
+2025-05-07 * "Stipendio aprile"
+  Income:Stipendio:Colombini                -1779.86 EUR
+  Assets:CC:Buddy                            
+
+2025-06-06 * "Stipendio maggio"
+  Income:Stipendio:Colombini                -1783.73 EUR
+  Assets:CC:Buddy                         
+
+2025-07-07 * "Stipendio giugno"
+  Income:Stipendio:Colombini                -1805.95 EUR
+  Assets:CC:Buddy         
+
+2025-08-07 * "Stipendio luglio"
+  Income:Stipendio:Colombini                -1858.01 EUR
+  Assets:CC:Buddy  
+
+2025-09-05 * "Stipendio agosto"
+  Income:Stipendio:Colombini                -1661.96 EUR
+  Assets:CC:Buddy           
+
+2025-10-07 * "Stipendio settembre"
+  Income:Stipendio:Colombini                -2107.15 EUR
+  Assets:CC:Buddy                      
+
+2025-11-07 * "Stipendio ottobre"
+  Income:Stipendio:Colombini                -1889.07 EUR
+  Assets:CC:Buddy    
+
+2025-12-05 * "Stipendio novembre"
+  Income:Stipendio:Colombini                -1644.28 EUR
+  Assets:CC:Buddy    
+
+2025-12-19 * "Tredicesima"
+  Income:Stipendio:Colombini                -1495.47 EUR
+  Assets:CC:Buddy    
