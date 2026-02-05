@@ -1,0 +1,7 @@
+* 2025
+include "./entrate/entrate-2025.bean"
+include "./uscite/buddy/buddy-uscite-2025.bean"
+
+* 2026
+include "./entrate/entrate-2026.bean"
+include "./uscite/buddy/buddy-uscite-2026.bean"
