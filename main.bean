@@ -26,6 +26,8 @@ include "./conto-economico/conto-economico.bean"
 2024-12-31 open Assets:Ivenstimenti:Crypto:Bitcoin EUR
 2024-12-31 open Assets:Ivenstimenti:Crypto:Ethereum EUR
 
+2024-12-31 open Assets:Prestiti:Gaz EUR
+
 * Passività (Liability)
 2024-12-31 open Liabilities:Agenzia-Entrate EUR
 2024-12-31 * "Soldi dovuti inizialmente"
@@ -66,6 +68,8 @@ include "./conto-economico/conto-economico.bean"
 2024-12-31 open Expenses:Necessità:Personale:Documenti EUR
 2024-12-31 open Expenses:Necessità:Abbonamenti:Telefono EUR
 2024-12-31 open Expenses:Necessità:Abbonamenti:Fibra EUR
+2024-12-31 open Expenses:Necessità:Famiglia:Gaz EUR
+2024-12-31 open Expenses:Necessità:Famiglia:Meli EUR
 
 2024-12-31 open Expenses:Desideri:Ristoranti-Bar EUR
 2024-12-31 open Expenses:Desideri:Ristoranti-Bar:MC-Donalds EUR
@@ -77,5 +81,6 @@ include "./conto-economico/conto-economico.bean"
 2024-12-31 open Expenses:Desideri:Intrattenimento:Bowling EUR
 2024-12-31 open Expenses:Desideri:Intrattenimento:Videogiochi EUR
 2024-12-31 open Expenses:Desideri:Intrattenimento:Abbonamenti:Spotify EUR
+2024-12-31 open Expenses:Desideri:Intrattenimento:Abbonamenti:Amazon EUR
 2024-12-31 open Expenses:Desideri:Shopping:Vestiti EUR
 2024-12-31 open Expenses:Desideri:Shopping:Acquisti-Online EUR

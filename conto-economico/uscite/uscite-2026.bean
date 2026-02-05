@@ -1,0 +1,129 @@
+*Buddy
+**Gennaio
+2026-01-02 * "Secondo libro falce su amazon"
+    Assets:CC:Buddy                           -13.30 EUR
+    Expenses:Desideri:Shopping:Acquisti-Online
+2026-01-02 * "Spesa MD"
+    Assets:CC:Buddy                            -9.22 EUR
+    Expenses:Necessità:Spesa:MD    
+2026-01-05 * "Taccuino su Amazon"
+    Assets:CC:Buddy                           -20.27 EUR
+    Expenses:Desideri:Shopping:Acquisti-Online
+2026-01-05 * "MC Donald's"
+    Assets:CC:Buddy                           -12.30 EUR
+    Expenses:Desideri:Ristoranti-Bar:MC-Donalds
+2026-01-05 * "Cena a Daje Va', Ristorante romano"
+    Assets:CC:Buddy                           -23.50 EUR
+    Expenses:Desideri:Ristoranti-Bar
+2026-01-05 * "Spesa MD"
+    Assets:CC:Buddy                           -32.65 EUR
+    Expenses:Necessità:Spesa:MD
+2026-01-07 * "Iliad"
+    Assets:CC:Buddy                            -9.99 EUR
+    Expenses:Necessità:Abbonamenti:Telefono
+2026-01-09 * "Spostamento su Revolut"
+    Assets:CC:Buddy                          -100.00 EUR
+    Assets:CC:Revolut
+2026-01-12 * "Assicurazione personale"
+    Assets:CC:Buddy                          -120.00 EUR
+    Expenses:Necessità:Personale:Assicurazione
+2026-01-12 * "Fondo pensione"
+    Assets:CC:Buddy                          -150.00 EUR
+    Assets:Ivenstimenti:Fondo-Pensione
+2026-01-12 * "Spesa MD"
+    Assets:CC:Buddy                           -15.49 EUR
+    Expenses:Necessità:Spesa:MD
+2026-01-12 * "Spesa non identificata" 
+    Assets:CC:Buddy                           -12.30 EUR
+    Expenses:Non-Identificate
+2026-01-12 * "Cilindretti e ganasce + boccole + olio freni"
+    Assets:CC:Buddy                          -132.00 EUR
+    Expenses:Necessità:Auto:Fiesta:Manutenzione
+2026-01-12 * "Chiave dinamometrica su amazon"
+    Assets:CC:Buddy                           -49.00 EUR
+    Expenses:Desideri:Hobby:Attrezzature
+2026-01-12 * "Rinnovo Amazon Prima ?"
+    Assets:CC:Buddy                           -39.19 EUR
+    Expenses:Desideri:Intrattenimento:Abbonamenti:Amazon
+2026-01-14 * "Paypal ?"
+    Assets:CC:Buddy                           -12.50 EUR
+    Expenses:Non-Identificate
+2026-01-14 * "Benzina"
+    Assets:CC:Buddy                           -32.10 EUR
+    Expenses:Necessità:Auto:Fiesta:Benzina
+2026-01-14 * "Spesa MD"
+    Assets:CC:Buddy                           -34.31 EUR
+    Expenses:Necessità:Spesa:MD
+2026-01-15 * "Visità dermatologica"
+    Assets:CC:Buddy                           -26.90 EUR
+    Expenses:Necessità:Personale:Sanità
+2026-01-15 * "Prelievo contanti"
+    Assets:CC:Buddy                          -350.00 EUR
+    Assets:Portafoglio:Contanti
+2026-01-16 * "Assicurazione Fiesta"
+    Assets:CC:Buddy                          -495.23 EUR
+    Expenses:Necessità:Auto:Fiesta:Assicurazione
+2026-01-16 * "Affito Gennaio"
+    Assets:CC:Buddy                          -211.83 EUR
+    Expenses:Necessità:Casa:Affitto
+2026-01-20 * "Porta Bobine Bambulab"
+    Assets:CC:Buddy                            -0.59 EUR
+    Expenses:Desideri:Hobby:Attrezzature
+2026-01-20 * "Hytale"
+    Assets:CC:Buddy                           -21.92 EUR
+    Expenses:Desideri:Intrattenimento:Videogiochi
+2026-01-21 * "Spesa MD"
+    Assets:CC:Buddy                           -44.42 EUR
+    Expenses:Necessità:Spesa:MD
+2026-01-22 * "Spesa Conad"
+    Assets:CC:Buddy                           -53.69 EUR
+    Expenses:Necessità:Spesa:Conad
+2026-01-22 * "Benzina"
+    Assets:CC:Buddy                           -38.67 EUR
+    Expenses:Necessità:Auto:Fiesta:Benzina
+2026-01-26 * "Spotify"
+    Assets:CC:Buddy                           -16.99 EUR
+    Expenses:Desideri:Intrattenimento:Abbonamenti:Spotify
+2026-01-25 * "MC Donald's"
+    Assets:CC:Buddy                            -8.70 EUR
+    Expenses:Desideri:Ristoranti-Bar:MC-Donalds
+2026-01-26 * "Spesa MD"
+    Assets:CC:Buddy                           -41.98 EUR
+    Expenses:Necessità:Spesa:MD
+2026-01-27 * "Spostamento su Revolut per bollette"
+    Assets:CC:Buddy                          -200.00 EUR
+    Assets:CC:Revolut
+2026-01-30 * "Vestiti meli su amazon"
+    Assets:CC:Buddy                           -59.21 EUR
+    Expenses:Necessità:Famiglia:Meli 
+2026-01-30 * "Pastiglie Freni"
+    Assets:CC:Buddy                           -33.00 EUR
+    Expenses:Necessità:Auto:Fiesta:Manutenzione
+2026-01-30 * "Autostrada"
+    Assets:CC:Buddy                            -2.80 EUR
+    Expenses:Necessità:Personale:Spostamenti
+**Febbraio
+2026-02-01 * "Autostrada"
+    Assets:CC:Buddy                            -2.80 EUR
+    Expenses:Necessità:Personale:Spostamenti
+2026-02-03 * "Benzina"
+    Assets:CC:Buddy                           -40.38 EUR
+    Expenses:Necessità:Auto:Fiesta:Benzina
+2026-02-05 * "Spesa Conad + autostrada Gaz"
+    Expenses:Necessità:Spesa:Conad             26.88 EUR ; Spesa Conad
+    Expenses:Necessità:Famiglia:Gaz             5.38 EUR ; Mancato pagamento autostrada Gaz
+    Assets:CC:Buddy
+
+
+
+*Contanti
+2026-01-15 * "Prestati soldi a Gaz"
+    Assets:Portafoglio:Contanti              -150.00 EUR
+    Assets:Portafoglio:Contanti               -40.00 EUR
+    Expenses:Necessità:Famiglia:Gaz
+2026-01-21 * "Caffè macchinetta lavoro"
+    Assets:Portafoglio:Contanti                -0.35 EUR
+    Expenses:Desideri:Ristoranti-Bar
+2026-01-21 * "Mensa"
+    Assets:Portafoglio:Contanti                -2.90 EUR
+    Expenses:Desideri:Ristoranti-Bar
