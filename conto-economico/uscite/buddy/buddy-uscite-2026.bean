@@ -113,7 +113,10 @@
     Expenses:Necessità:Spesa:Conad             26.88 EUR ; Spesa Conad
     Expenses:Necessità:Famiglia:Gaz             5.38 EUR ; Mancato pagamento autostrada Gaz
     Assets:CC:Buddy
-
+2026-02-06 * "assicurazione punto + affitto"
+    Expenses:Necessità:Auto:Punto:Assicurazione 463.18 EUR ;Assicurazione Punto
+    Expenses:Necessità:Casa:Affitto           210.33 EUR ;Affitto febbraio
+    Assets:CC:Buddy
 
 
 *Contanti
